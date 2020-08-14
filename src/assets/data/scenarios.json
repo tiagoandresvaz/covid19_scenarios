@@ -34,8 +34,8 @@
         "population": {
           "ageDistributionName": "RS-Governo do Estado do Rio Grande do Sul",
           "caseCountsName": "RS-Governo do Estado do Rio Grande do Sul",
-          "hospitalBeds": 6674,
-          "icuBeds": 826,
+          "hospitalBeds": 6287,
+          "icuBeds": 1249,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 2891,
           "populationServed": 11329605
@@ -96,8 +96,8 @@
         "population": {
           "ageDistributionName": "RS-Prefeitura de Porto Alegre",
           "caseCountsName": "RS-Prefeitura de Porto Alegre",
-          "hospitalBeds": 1427,
-          "icuBeds": 280,
+          "hospitalBeds": 1221,
+          "icuBeds": 469,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 1465430
@@ -158,8 +158,8 @@
         "population": {
           "ageDistributionName": "RS-Sul",
           "caseCountsName": "RS-Sul",
-          "hospitalBeds": 398,
-          "icuBeds": 63,
+          "hospitalBeds": 379,
+          "icuBeds": 80,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 1055782
@@ -208,8 +208,8 @@
         "population": {
           "ageDistributionName": "RS-Norte",
           "caseCountsName": "RS-Norte",
-          "hospitalBeds": 854,
-          "icuBeds": 134,
+          "hospitalBeds": 794,
+          "icuBeds": 118,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 54,
           "populationServed": 1269747
@@ -270,8 +270,8 @@
         "population": {
           "ageDistributionName": "RS-Centro-Oeste",
           "caseCountsName": "RS-Centro-Oeste",
-          "hospitalBeds": 473,
-          "icuBeds": 83,
+          "hospitalBeds": 491,
+          "icuBeds": 80,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 1002510
@@ -333,7 +333,7 @@
           "ageDistributionName": "RS-Missioneira",
           "caseCountsName": "RS-Missioneira",
           "hospitalBeds": 1004,
-          "icuBeds": 63,
+          "icuBeds": 65,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 918268
@@ -394,8 +394,8 @@
         "population": {
           "ageDistributionName": "RS-Serra",
           "caseCountsName": "RS-Serra",
-          "hospitalBeds": 910,
-          "icuBeds": 144,
+          "hospitalBeds": 863,
+          "icuBeds": 155,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 1186443
@@ -456,8 +456,8 @@
         "population": {
           "ageDistributionName": "RS-Metropolitana",
           "caseCountsName": "RS-Metropolitana",
-          "hospitalBeds": 1997,
-          "icuBeds": 507,
+          "hospitalBeds": 2208,
+          "icuBeds": 667,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 4983623
@@ -507,7 +507,7 @@
           "ageDistributionName": "RS-Vales",
           "caseCountsName": "RS-Vales",
           "hospitalBeds": 548,
-          "icuBeds": 75,
+          "icuBeds": 84,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 66,
           "populationServed": 913232
@@ -619,7 +619,7 @@
           "ageDistributionName": "RS-Cachoeira Do Sul-R27",
           "caseCountsName": "RS-Cachoeira Do Sul-R27",
           "hospitalBeds": 151,
-          "icuBeds": 14,
+          "icuBeds": 10,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 17,
           "populationServed": 199957
@@ -680,8 +680,8 @@
         "population": {
           "ageDistributionName": "RS-Canoas-R08",
           "caseCountsName": "RS-Canoas-R08",
-          "hospitalBeds": 292,
-          "icuBeds": 40,
+          "hospitalBeds": 326,
+          "icuBeds": 60,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 792767
@@ -742,7 +742,7 @@
         "population": {
           "ageDistributionName": "RS-Capao Da Canoa-R04 R05",
           "caseCountsName": "RS-Capao Da Canoa-R04 R05",
-          "hospitalBeds": 138,
+          "hospitalBeds": 65,
           "icuBeds": 18,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
@@ -804,8 +804,8 @@
         "population": {
           "ageDistributionName": "RS-Caxias Do Sul-R23 R24 R25 R26",
           "caseCountsName": "RS-Caxias Do Sul-R23 R24 R25 R26",
-          "hospitalBeds": 841,
-          "icuBeds": 79,
+          "hospitalBeds": 863,
+          "icuBeds": 155,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 1186443
@@ -867,7 +867,7 @@
           "ageDistributionName": "RS-Cruz Alta-R12",
           "caseCountsName": "RS-Cruz Alta-R12",
           "hospitalBeds": 247,
-          "icuBeds": 15,
+          "icuBeds": 19,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 152581
@@ -928,8 +928,8 @@
         "population": {
           "ageDistributionName": "RS-Erechim-R16",
           "caseCountsName": "RS-Erechim-R16",
-          "hospitalBeds": 152,
-          "icuBeds": 23,
+          "hospitalBeds": 144,
+          "icuBeds": 27,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 240074
@@ -990,8 +990,8 @@
         "population": {
           "ageDistributionName": "RS-Ijui-R13",
           "caseCountsName": "RS-Ijui-R13",
-          "hospitalBeds": 312,
-          "icuBeds": 9,
+          "hospitalBeds": 311,
+          "icuBeds": 8,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 240503
@@ -1040,8 +1040,8 @@
         "population": {
           "ageDistributionName": "RS-Lajeado-R29 R30",
           "caseCountsName": "RS-Lajeado-R29 R30",
-          "hospitalBeds": 230,
-          "icuBeds": 30,
+          "hospitalBeds": 198,
+          "icuBeds": 39,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 35,
           "populationServed": 366332
@@ -1102,8 +1102,8 @@
         "population": {
           "ageDistributionName": "RS-Novo Hamburgo-R07",
           "caseCountsName": "RS-Novo Hamburgo-R07",
-          "hospitalBeds": 370,
-          "icuBeds": 17,
+          "hospitalBeds": 242,
+          "icuBeds": 48,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 819402
@@ -1164,8 +1164,8 @@
         "population": {
           "ageDistributionName": "RS-Palmeira Das Missoes-R15 R20",
           "caseCountsName": "RS-Palmeira Das Missoes-R15 R20",
-          "hospitalBeds": 252,
-          "icuBeds": 17,
+          "hospitalBeds": 255,
+          "icuBeds": 20,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 361215
@@ -1214,8 +1214,8 @@
         "population": {
           "ageDistributionName": "RS-Passo Fundo-R17 R18 R19",
           "caseCountsName": "RS-Passo Fundo-R17 R18 R19",
-          "hospitalBeds": 457,
-          "icuBeds": 49,
+          "hospitalBeds": 395,
+          "icuBeds": 71,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 19,
           "populationServed": 668458
@@ -1276,8 +1276,8 @@
         "population": {
           "ageDistributionName": "RS-Pelotas-R21",
           "caseCountsName": "RS-Pelotas-R21",
-          "hospitalBeds": 314,
-          "icuBeds": 31,
+          "hospitalBeds": 231,
+          "icuBeds": 58,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 871041
@@ -1313,7 +1313,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-03-29",
+                "begin": "2020-03-26",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1325,7 +1325,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-12",
+                "begin": "2020-06-10",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1336,13 +1336,13 @@
           ]
         },
         "population": {
-          "ageDistributionName": "RS-Porto Alegre-R09 R10",
-          "caseCountsName": "RS-Porto Alegre-R09 R10",
-          "hospitalBeds": 1582,
-          "icuBeds": 317,
+          "ageDistributionName": "RS-Porto Alegre-R10",
+          "caseCountsName": "RS-Porto Alegre-R10",
+          "hospitalBeds": 1323,
+          "icuBeds": 492,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
-          "populationServed": 2745593
+          "populationServed": 2341799
         },
         "simulation": {
           "numberStochasticRuns": 15,
@@ -1352,7 +1352,69 @@
           }
         }
       },
-      "name": "RS-Porto Alegre-R09 R10"
+      "name": "RS-Porto Alegre-R10"
+    },
+    {
+      "data": {
+        "epidemiological": {
+          "hospitalStayDays": 3.0,
+          "icuStayDays": 14.0,
+          "infectiousPeriodDays": 3.0,
+          "latencyDays": 3.0,
+          "overflowSeverity": 2.0,
+          "peakMonth": 0,
+          "r0": {
+            "begin": 1.13,
+            "end": 1.39
+          },
+          "seasonalForcing": 0.0
+        },
+        "mitigation": {
+          "mitigationIntervals": [
+            {
+              "color": "#bf5b17",
+              "name": "Intervention #1",
+              "timeRange": {
+                "begin": "2020-05-08",
+                "end": "2020-09-01"
+              },
+              "transmissionReduction": {
+                "begin": 18.7,
+                "end": 21.3
+              }
+            },
+            {
+              "color": "#666666",
+              "name": "Intervention #2",
+              "timeRange": {
+                "begin": "2020-06-30",
+                "end": "2020-09-01"
+              },
+              "transmissionReduction": {
+                "begin": 54.2,
+                "end": 65.8
+              }
+            }
+          ]
+        },
+        "population": {
+          "ageDistributionName": "RS-Guaiba-R09",
+          "caseCountsName": "RS-Guaiba-R09",
+          "hospitalBeds": 149,
+          "icuBeds": 36,
+          "importsPerDay": 0.1,
+          "initialNumberOfCases": 10,
+          "populationServed": 403794
+        },
+        "simulation": {
+          "numberStochasticRuns": 15,
+          "simulationTimeRange": {
+            "begin": "2020-02-12",
+            "end": "2020-08-31"
+          }
+        }
+      },
+      "name": "RS-Guaiba-R09"
     },
     {
       "data": {
@@ -1401,7 +1463,7 @@
           "ageDistributionName": "RS-Santa Cruz Do Sul-R28",
           "caseCountsName": "RS-Santa Cruz Do Sul-R28",
           "hospitalBeds": 199,
-          "icuBeds": 28,
+          "icuBeds": 35,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 346943
@@ -1462,8 +1524,8 @@
         "population": {
           "ageDistributionName": "RS-Santa Maria-R01 R02",
           "caseCountsName": "RS-Santa Maria-R01 R02",
-          "hospitalBeds": 299,
-          "icuBeds": 58,
+          "hospitalBeds": 328,
+          "icuBeds": 47,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 551963
@@ -1525,7 +1587,7 @@
           "ageDistributionName": "RS-Santa Rosa-R14",
           "caseCountsName": "RS-Santa Rosa-R14",
           "hospitalBeds": 178,
-          "icuBeds": 10,
+          "icuBeds": 18,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 236497
@@ -1574,8 +1636,8 @@
         "population": {
           "ageDistributionName": "RS-Santo Angelo-R11",
           "caseCountsName": "RS-Santo Angelo-R11",
-          "hospitalBeds": 211,
-          "icuBeds": 18,
+          "hospitalBeds": 268,
+          "icuBeds": 20,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 288687
@@ -1636,8 +1698,8 @@
         "population": {
           "ageDistributionName": "RS-Taquara-R06",
           "caseCountsName": "RS-Taquara-R06",
-          "hospitalBeds": 170,
-          "icuBeds": 3,
+          "hospitalBeds": 103,
+          "icuBeds": 13,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 228092
@@ -1698,8 +1760,8 @@
         "population": {
           "ageDistributionName": "RS-Uruguaiana-R03",
           "caseCountsName": "RS-Uruguaiana-R03",
-          "hospitalBeds": 131,
-          "icuBeds": 28,
+          "hospitalBeds": 163,
+          "icuBeds": 33,
           "importsPerDay": 0.1,
           "initialNumberOfCases": 10,
           "populationServed": 450547
