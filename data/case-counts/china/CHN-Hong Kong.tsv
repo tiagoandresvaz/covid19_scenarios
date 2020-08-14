@@ -135,3 +135,7 @@ time	cases	deaths	hospitalized	icu	recovered
 2020-07-11	1431	7			1197
 2020-07-12	1469	7			1214
 2020-07-15	1588	8			1229
+<<<<<<< HEAD
+=======
+2020-07-16	1655	10			1254
+>>>>>>> palliative_flux
