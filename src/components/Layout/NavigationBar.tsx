@@ -71,7 +71,7 @@ export function NavigationBarDisconnected({ pathname }: NavigationBarProps) {
   return (
     <Container fluid className="pb-1">
       <nav
-        className="navbar navbar-expand navbar-dark bg-dark navbar-scroll hide-native-scrollbar"
+        className="navbar navbar-expand navbar-light bg-dark navbar-scroll hide-native-scrollbar"
         role="navigation"
         data-testid="NavigationBar"
       >
