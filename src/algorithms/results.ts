@@ -10,6 +10,7 @@ function emptyTimePoint(t: number): ExportedTimePoint {
     current: {
       susceptible: {},
       severe: {},
+      ameliorate: {},
       critical: {},
       exposed: {},
       infectious: {},
@@ -45,6 +46,7 @@ function operationTP(
     current: {
       susceptible: operator(x.current.susceptible, y.current.susceptible),
       severe: operator(x.current.severe, y.current.severe),
+      ameliorate: operator(x.current.ameliorate, y.current.ameliorate),
       exposed: operator(x.current.exposed, y.current.exposed),
       critical: operator(x.current.critical, y.current.critical),
       overflow: operator(x.current.overflow, y.current.overflow),
@@ -143,6 +145,7 @@ function scaleTP(x: ExportedTimePoint, transform: (x: number) => number): Export
     current: {
       susceptible: scale(x.current.susceptible),
       severe: scale(x.current.severe),
+      ameliorate: scale(x.current.ameliorate),
       exposed: scale(x.current.exposed),
       critical: scale(x.current.critical),
       overflow: scale(x.current.overflow),

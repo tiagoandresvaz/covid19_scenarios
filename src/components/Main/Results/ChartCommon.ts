@@ -14,6 +14,7 @@ export const DATA_POINTS = {
   Susceptible: 'susceptible',
   Infectious: 'infectious',
   Severe: 'severe',
+  Ameliorate: 'ameliorate',
   Critical: 'critical',
   Overflow: 'overflow',
   Recovered: 'recovered',

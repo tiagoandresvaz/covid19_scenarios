@@ -11,6 +11,7 @@ export function preparePlotData(trajectory: Trajectory): PlotDatum[] {
         susceptible: verifyPositive(x.current.susceptible.total),
         infectious: verifyPositive(x.current.infectious.total),
         severe: verifyPositive(x.current.severe.total),
+        ameliorate: verifyPositive(x.current.ameliorate.total),
         critical: verifyPositive(x.current.critical.total),
         overflow: verifyPositive(x.current.overflow.total),
         recovered: verifyPositive(x.cumulative.recovered.total),
@@ -30,6 +31,10 @@ export function preparePlotData(trajectory: Trajectory): PlotDatum[] {
         severe: verifyTuple(
           [verifyPositive(lower[day].current.severe.total), verifyPositive(upper[day].current.severe.total)],
           x.current.severe.total,
+        ),
+        ameliorate: verifyTuple(
+          [verifyPositive(lower[day].current.ameliorate.total), verifyPositive(upper[day].current.ameliorate.total)],
+          x.current.ameliorate.total,
         ),
         critical: verifyTuple(
           [verifyPositive(lower[day].current.critical.total), verifyPositive(upper[day].current.critical.total)],

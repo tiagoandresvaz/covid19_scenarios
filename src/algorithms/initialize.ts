@@ -84,6 +84,7 @@ export function getPopulationParams(
     frac: {
       severe: [],
       critical: [],
+      ameliorate: [],
       fatal: [],
       isolated: [],
       palliative: [],
@@ -95,7 +96,8 @@ export function getPopulationParams(
       severe: [],
       discharge: [],
       critical: [],
-      stabilize: [],
+      //stabilize: [],
+      ameliorate: [],
       palliative: [],
       fatality: [],
       overflowFatality: [],
@@ -129,7 +131,8 @@ export function getPopulationParams(
     sim.rate.discharge[i] = (1 - dCritical - dPalliative) / hospitalStayDays
     sim.rate.palliative[i] = dPalliative / hospitalStayDays
     sim.rate.critical[i] = dCritical / hospitalStayDays
-    sim.rate.stabilize[i] = (1 - dFatal) / icuStayDays
+    //sim.rate.stabilize[i] = (1 - dFatal) / icuStayDays
+    sim.rate.ameliorate[i] = (1 - dFatal) / icuStayDays
     sim.rate.fatality[i] = dFatal / icuStayDays
     sim.rate.overflowFatality[i] = overflowSeverity * sim.rate.fatality[i]
   })
@@ -171,6 +174,7 @@ export function initializePopulation(
       exposed: [],
       infectious: [],
       severe: [],
+      ameliorate: [],
       critical: [],
       overflow: [],
     },
@@ -193,6 +197,7 @@ export function initializePopulation(
     pop.current.exposed[i] = [0, 0, 0]
     pop.current.infectious[i] = 0
     pop.current.severe[i] = 0
+    pop.current.ameliorate[i] = 0
     pop.current.critical[i] = 0
     pop.current.overflow[i] = 0
     pop.cumulative.hospitalized[i] = 0

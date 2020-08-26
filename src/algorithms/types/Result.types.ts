@@ -6,6 +6,7 @@ export interface InternalCurrentData {
   exposed: number[][]
   infectious: number[]
   severe: number[]
+  ameliorate: number[]
   critical: number[]
   overflow: number[]
 }
@@ -22,6 +23,7 @@ export interface ExposedCurrentData {
   exposed: Record<string, number>
   infectious: Record<string, number>
   severe: Record<string, number>
+  ameliorate: Record<string, number>
   critical: Record<string, number>
   overflow: Record<string, number>
   weeklyFatality: Record<string, number>
@@ -50,6 +52,7 @@ export interface ExportedTimePoint {
 
 export interface ModelFracs {
   severe: number[]
+  ameliorate: number[]
   critical: number[]
   fatal: number[]
   isolated: number[]
@@ -64,7 +67,8 @@ export interface ModelRates {
   discharge: number[]
   palliative: number[]
   critical: number[]
-  stabilize: number[]
+  //stabilize: number[]
+  ameliorate: number[]
   fatality: number[]
   overflowFatality: number[]
 }

@@ -24,12 +24,15 @@ interface StateFlux {
     recovered: number[]
     palliative: number[]
   }
+  ameliorate: {
+    recovered: number[]
+  }
   critical: {
-    severe: number[]
+    ameliorate: number[]
     fatality: number[]
   }
   overflow: {
-    severe: number[]
+    ameliorate: number[]
     fatality: number[]
   }
 }
@@ -95,6 +98,7 @@ function advanceState(
       exposed: [],
       infectious: [],
       severe: [],
+      ameliorate: [],
       critical: [],
       overflow: [],
     },
@@ -130,6 +134,7 @@ function advanceState(
     update(age, 'current', 'critical')
     update(age, 'current', 'infectious')
     update(age, 'current', 'overflow')
+    update(age, 'current', 'ameliorate')
     update(age, 'current', 'severe')
     update(age, 'current', 'susceptible')
 
@@ -176,6 +181,7 @@ function sumDerivatives(grads: TimeDerivative[], scale: number[]): TimeDerivativ
       susceptible: [],
       exposed: [],
       infectious: [],
+      ameliorate: [],
       severe: [],
       critical: [],
       overflow: [],
@@ -196,6 +202,7 @@ function sumDerivatives(grads: TimeDerivative[], scale: number[]): TimeDerivativ
     sum.current.critical[age] = 0
     sum.current.overflow[age] = 0
     sum.current.severe[age] = 0
+    sum.current.ameliorate[age] = 0
 
     sum.cumulative.critical[age] = 0
     sum.cumulative.fatality[age] = 0
@@ -211,6 +218,8 @@ function sumDerivatives(grads: TimeDerivative[], scale: number[]): TimeDerivativ
         sum.current.exposed[age][j] += scale[i] * e
       })
       sum.current.severe[age] += scale[i] * grad.current.severe[age]
+      sum.current.ameliorate[age] += scale[i] * grad.current.ameliorate[age]
+
       sum.current.critical[age] += scale[i] * grad.current.critical[age]
       sum.current.overflow[age] += scale[i] * grad.current.overflow[age]
 
@@ -231,6 +240,7 @@ function derivative(flux: StateFlux): TimeDerivative {
       exposed: [],
       infectious: [],
       severe: [],
+      ameliorate: [],
       critical: [],
       overflow: [],
     },
@@ -253,21 +263,22 @@ function derivative(flux: StateFlux): TimeDerivative {
     })
     grad.current.infectious[age] = fluxIn - flux.infectious.severe[age] - flux.infectious.recovered[age]
     grad.current.severe[age] =
-      flux.infectious.severe[age] +
-      flux.critical.severe[age] +
-      flux.overflow.severe[age] -
+      flux.infectious.severe[age] -
       flux.severe.critical[age] -
       flux.severe.palliative[age] -
       flux.severe.recovered[age]
-    grad.current.critical[age] = flux.severe.critical[age] - flux.critical.severe[age] - flux.critical.fatality[age]
-    grad.current.overflow[age] = -(flux.overflow.severe[age] + flux.overflow.fatality[age])
-
+    grad.current.ameliorate[age] =
+      flux.critical.ameliorate[age] +  
+      flux.overflow.ameliorate[age] - 
+      flux.ameliorate.recovered[age]
+    grad.current.critical[age] = flux.severe.critical[age] - flux.critical.ameliorate[age] - flux.critical.fatality[age]
+    grad.current.overflow[age] = -(flux.overflow.ameliorate[age] + flux.overflow.fatality[age])
     // Cumulative categories
-    grad.cumulative.recovered[age] = flux.infectious.recovered[age] + flux.severe.recovered[age]
+    grad.cumulative.recovered[age] = flux.infectious.recovered[age] + flux.severe.recovered[age] + flux.ameliorate.recovered[age]
+    //this line counting patients returning from ICU 2x as hospitalization?
     grad.cumulative.hospitalized[age] = flux.infectious.severe[age]
     grad.cumulative.critical[age] = flux.severe.critical[age]
-    grad.cumulative.fatality[age] =
-      flux.critical.fatality[age] + flux.overflow.fatality[age] + flux.severe.palliative[age]
+    grad.cumulative.fatality[age] = flux.critical.fatality[age] + flux.overflow.fatality[age] + flux.severe.palliative[age]
   }
 
   return grad
@@ -287,12 +298,15 @@ function fluxes(time: number, pop: SimulationTimePoint, P: ModelParams): StateFl
       recovered: [],
       palliative: [],
     },
+    ameliorate: {
+      recovered: [],
+    },
     critical: {
-      severe: [],
+      ameliorate: [],
       fatality: [],
     },
     overflow: {
-      severe: [],
+      ameliorate: [],
       fatality: [],
     },
   }
@@ -314,7 +328,7 @@ function fluxes(time: number, pop: SimulationTimePoint, P: ModelParams): StateFl
       flux.exposed[age][i] = P.rate.latency * exposed * exposedArray.length
     })
 
-    // Infectious -> Recovered/Critical
+    // Infectious -> Recovered/Severe
     flux.infectious.recovered[age] = pop.current.infectious[age] * P.rate.recovery[age]
     flux.infectious.severe[age] = pop.current.infectious[age] * P.rate.severe[age]
 
@@ -323,12 +337,17 @@ function fluxes(time: number, pop: SimulationTimePoint, P: ModelParams): StateFl
     flux.severe.critical[age] = pop.current.severe[age] * P.rate.critical[age]
     flux.severe.palliative[age] = pop.current.severe[age] * P.rate.palliative[age]
 
-    // Critical -> Severe/Fatality
-    flux.critical.severe[age] = pop.current.critical[age] * P.rate.stabilize[age]
-    flux.critical.fatality[age] = pop.current.critical[age] * P.rate.fatality[age]
-
-    // Overflow -> Severe/Fatality
-    flux.overflow.severe[age] = pop.current.overflow[age] * P.rate.stabilize[age]
+    // Critical -> Ameliorate/Fatality
+    //flux.critical.ameliorate[age] = pop.current.critical[age] * P.rate.stabilize[age]
+    flux.critical.ameliorate[age] = pop.current.critical[age] * P.rate.ameliorate[age]
+    flux.critical.fatality[age] = pop.current.critical[age] * P.rate.fatality[age]    
+    
+    // Ameliorate -> Recovered
+    flux.ameliorate.recovered[age] = pop.current.ameliorate[age] * P.rate.discharge[age]
+    
+    // Overflow -> Severe/Ameliorate
+    //flux.overflow.ameliorate[age] = pop.current.overflow[age] * P.rate.stabilize[age]
+    flux.overflow.ameliorate[age] = pop.current.overflow[age] * P.rate.ameliorate[age]
     flux.overflow.fatality[age] = pop.current.overflow[age] * P.rate.overflowFatality[age]
   }
 
@@ -349,6 +368,7 @@ export function collectTotals(trajectory: SimulationTimePoint[], ages: string[])
       current: {
         susceptible: {},
         severe: {},
+        ameliorate: {},
         exposed: {},
         overflow: {},
         critical: {},

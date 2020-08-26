@@ -123,6 +123,9 @@ export function OutcomesDetailsTableDisconnected({
             <th scope="col" className="outcome-table-th bg-severe">
               {t(`Severe`)}
             </th>
+            <th scope="col" className="outcome-table-th bg-severe">
+              {t(`Ameliorate`)}
+            </th>
             <th scope="col" className="outcome-table-th bg-critical">
               {t(`Critical`)}
             </th>
@@ -146,6 +149,12 @@ export function OutcomesDetailsTableDisconnected({
                 <NumberWithUncertainty
                   lower={downsampled.lower[i].current.severe.total}
                   upper={downsampled.upper[i].current.severe.total}
+                />
+              </td>
+              <td className="bg-severe">
+                <NumberWithUncertainty
+                  lower={downsampled.lower[i].current.ameliorate.total}
+                  upper={downsampled.upper[i].current.ameliorate.total}
                 />
               </td>
               <td className="bg-critical">
