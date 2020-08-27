@@ -133,7 +133,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-10",
+                "begin": "2020-05-09",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -145,7 +145,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-10",
+                "begin": "2020-07-09",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -245,7 +245,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-12",
+                "begin": "2020-05-11",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -667,7 +667,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-14",
+                "begin": "2020-06-13",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -717,7 +717,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-04-23",
+                "begin": "2020-04-21",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -729,7 +729,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-23",
+                "begin": "2020-06-22",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -915,7 +915,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-26",
+                "begin": "2020-06-25",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -977,7 +977,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-22",
+                "begin": "2020-07-21",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1263,7 +1263,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-12",
+                "begin": "2020-07-10",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1387,7 +1387,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-30",
+                "begin": "2020-06-28",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1449,7 +1449,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-19",
+                "begin": "2020-07-18",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1499,7 +1499,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-07",
+                "begin": "2020-05-06",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1511,7 +1511,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-02",
+                "begin": "2020-07-01",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1630,6 +1630,18 @@
                 "begin": 36.2,
                 "end": 43.8
               }
+            },
+            {
+              "color": "#666666",
+              "name": "Intervention #2",
+              "timeRange": {
+                "begin": "2020-08-01",
+                "end": "2020-09-01"
+              },
+              "transmissionReduction": {
+                "begin": 54.2,
+                "end": 65.8
+              }
             }
           ]
         },
@@ -1735,7 +1747,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-18",
+                "begin": "2020-05-17",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
