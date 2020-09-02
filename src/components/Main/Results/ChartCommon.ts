@@ -69,7 +69,7 @@ export const linesToPlot: LineProps[] = [
   { key: DATA_POINTS.Susceptible, color: colors.susceptible, name: 'Susceptible', legendType: 'line' },
   { key: DATA_POINTS.Recovered, color: colors.recovered, name: 'Recovered', legendType: 'line' },
   { key: DATA_POINTS.Infectious, color: colors.infectious, name: 'Infectious', legendType: 'line' },
-  { key: DATA_POINTS.Severe, color: colors.severe, name: 'Severely ill', legendType: 'line' },
+  { key: DATA_POINTS.Severe, color: colors.severe, name: 'Severely ill(with Ameliorated)', legendType: 'line' },
   { key: DATA_POINTS.Critical, color: colors.critical, name: 'Patients in ICU (model)', legendType: 'line' },
   { key: DATA_POINTS.Overflow, color: colors.overflow, name: 'ICU overflow', legendType: 'line' },
   { key: DATA_POINTS.Fatalities, color: colors.fatality, name: 'Cumulative deaths (model)', legendType: 'line' },

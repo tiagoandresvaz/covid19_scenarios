@@ -345,7 +345,7 @@ function fluxes(time: number, pop: SimulationTimePoint, P: ModelParams): StateFl
     // Ameliorate -> Recovered
     flux.ameliorate.recovered[age] = pop.current.ameliorate[age] * P.rate.discharge[age]
     
-    // Overflow -> Severe/Ameliorate
+    // Overflow -> Ameliorate/fatality
     //flux.overflow.ameliorate[age] = pop.current.overflow[age] * P.rate.stabilize[age]
     flux.overflow.ameliorate[age] = pop.current.overflow[age] * P.rate.ameliorate[age]
     flux.overflow.fatality[age] = pop.current.overflow[age] * P.rate.overflowFatality[age]
