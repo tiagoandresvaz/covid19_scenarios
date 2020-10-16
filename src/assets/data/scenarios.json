@@ -10,8 +10,8 @@
           "overflowSeverity": 2.0,
           "peakMonth": 0,
           "r0": {
-            "begin": 1.7,
-            "end": 2.07
+            "begin": 1.68,
+            "end": 2.06
           },
           "seasonalForcing": 0.0
         },
@@ -25,8 +25,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 54.2,
-                "end": 65.8
+                "begin": 53.3,
+                "end": 64.7
               }
             }
           ]
@@ -37,7 +37,7 @@
           "hospitalBeds": 6287,
           "icuBeds": 1249,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 2135,
+          "initialNumberOfCases": 2107,
           "populationServed": 11329605
         },
         "simulation": {
@@ -122,8 +122,8 @@
           "overflowSeverity": 2.0,
           "peakMonth": 0,
           "r0": {
-            "begin": 1.1,
-            "end": 1.35
+            "begin": 2.7,
+            "end": 3.3
           },
           "seasonalForcing": 0.0
         },
@@ -137,8 +137,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 18.7,
-                "end": 21.3
+                "begin": 36.2,
+                "end": 43.8
               }
             },
             {
@@ -167,7 +167,7 @@
         "simulation": {
           "numberStochasticRuns": 15,
           "simulationTimeRange": {
-            "begin": "2020-01-27",
+            "begin": "2020-03-01",
             "end": "2020-08-31"
           }
         }
@@ -199,8 +199,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 52.3,
-                "end": 63.7
+                "begin": 53.3,
+                "end": 64.7
               }
             }
           ]
@@ -211,7 +211,7 @@
           "hospitalBeds": 794,
           "icuBeds": 118,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 55,
+          "initialNumberOfCases": 0,
           "populationServed": 1269747
         },
         "simulation": {
@@ -431,7 +431,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-04-06",
+                "begin": "2020-04-05",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -509,7 +509,7 @@
           "hospitalBeds": 548,
           "icuBeds": 84,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 53,
+          "initialNumberOfCases": 47,
           "populationServed": 913232
         },
         "simulation": {
@@ -555,7 +555,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-04",
+                "begin": "2020-07-03",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -609,8 +609,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 40.5,
-                "end": 49.5
+                "begin": 41.4,
+                "end": 50.6
               }
             }
           ]
@@ -621,7 +621,7 @@
           "hospitalBeds": 151,
           "icuBeds": 10,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 11,
+          "initialNumberOfCases": 12,
           "populationServed": 199957
         },
         "simulation": {
@@ -655,7 +655,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-04-21",
+                "begin": "2020-04-20",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -717,7 +717,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-04-23",
+                "begin": "2020-04-22",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -954,8 +954,8 @@
           "overflowSeverity": 2.0,
           "peakMonth": 0,
           "r0": {
-            "begin": 1.04,
-            "end": 1.27
+            "begin": 2.7,
+            "end": 3.3
           },
           "seasonalForcing": 0.0
         },
@@ -969,8 +969,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 18.7,
-                "end": 21.3
+                "begin": 36.2,
+                "end": 43.8
               }
             },
             {
@@ -999,7 +999,7 @@
         "simulation": {
           "numberStochasticRuns": 15,
           "simulationTimeRange": {
-            "begin": "2020-01-20",
+            "begin": "2020-03-01",
             "end": "2020-08-31"
           }
         }
@@ -1031,8 +1031,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 43.2,
-                "end": 52.8
+                "begin": 42.3,
+                "end": 51.7
               }
             }
           ]
@@ -1043,7 +1043,7 @@
           "hospitalBeds": 198,
           "icuBeds": 39,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 24,
+          "initialNumberOfCases": 22,
           "populationServed": 366332
         },
         "simulation": {
@@ -1205,8 +1205,8 @@
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 57.1,
-                "end": 68.9
+                "begin": 59.1,
+                "end": 70.9
               }
             }
           ]
@@ -1217,7 +1217,7 @@
           "hospitalBeds": 395,
           "icuBeds": 71,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 13,
+          "initialNumberOfCases": 0,
           "populationServed": 668458
         },
         "simulation": {
@@ -1499,7 +1499,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-05",
+                "begin": "2020-05-04",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1623,7 +1623,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-25",
+                "begin": "2020-05-24",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1674,8 +1674,8 @@
           "overflowSeverity": 2.0,
           "peakMonth": 0,
           "r0": {
-            "begin": 1.07,
-            "end": 1.31
+            "begin": 2.7,
+            "end": 3.3
           },
           "seasonalForcing": 0.0
         },
@@ -1685,12 +1685,12 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-05-25",
+                "begin": "2020-05-23",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
-                "begin": 18.7,
-                "end": 21.3
+                "begin": 36.2,
+                "end": 43.8
               }
             },
             {
@@ -1719,7 +1719,7 @@
         "simulation": {
           "numberStochasticRuns": 15,
           "simulationTimeRange": {
-            "begin": "2020-01-15",
+            "begin": "2020-03-01",
             "end": "2020-08-31"
           }
         }
