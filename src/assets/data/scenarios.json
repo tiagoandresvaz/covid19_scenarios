@@ -145,7 +145,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-08",
+                "begin": "2020-07-07",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1437,7 +1437,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-04-28",
+                "begin": "2020-04-27",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1573,7 +1573,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-07-20",
+                "begin": "2020-07-21",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
