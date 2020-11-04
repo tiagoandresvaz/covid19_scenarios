@@ -8,7 +8,7 @@ Models of COVID-19 outbreak trajectories and hospital demand
 
 <p align="left">
   <a href="https://covid19-scenarios.org/">
-    🌐 covid19-scenarios.org
+    🌐 covid19-scenarios.org 2
   </a>
 </p>
 
