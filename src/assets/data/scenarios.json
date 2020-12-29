@@ -543,7 +543,7 @@
               "color": "#bf5b17",
               "name": "Intervention #1",
               "timeRange": {
-                "begin": "2020-03-21",
+                "begin": "2020-03-20",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
@@ -1511,7 +1511,7 @@
               "color": "#666666",
               "name": "Intervention #2",
               "timeRange": {
-                "begin": "2020-06-23",
+                "begin": "2020-06-22",
                 "end": "2020-09-01"
               },
               "transmissionReduction": {
