@@ -1,1 +1,1 @@
-python3 covid19_scenarios_data/parse_all.py --fetch --output-case src/assets/data/case_counts.json --output-population src/assets/data/population.json
+python generate_data.py --fetch --output-cases /home/tiagoandresvaz/covid19_scenarios/src/assets/data/caseCounts.json --output-scenarios /home/tiagoandresvaz/covid19_scenarios/src/assets/data/scenarios.json
