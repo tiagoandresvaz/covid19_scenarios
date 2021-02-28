@@ -326,7 +326,7 @@ def generate(output_json, num_procs=1, recalculate=False):
             if len(scenario.mitigation.mitigation_intervals):
                 scenario.mitigation.mitigation_intervals[-1].time_range.end = datetime.strptime(results[region]['tMax'], '%Y-%m-%d').date() + timedelta(1)
             scenario.population.seroprevalence = round(100*results[region]['seroprevalence'],2)
-            print(region, tmp_initial)
+            #print(region, tmp_initial)
             scenario.population.initial_number_of_cases = int(round(tmp_initial*5))
 
             if first_wave:
