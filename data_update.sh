@@ -1,7 +1,7 @@
 echo "update data and bump version from $1 to $2"
 
-git checkout staging
-git pull origin staging
+git checkout master
+git pull origin master
 
 cd data
 
