@@ -15,7 +15,7 @@ const ENV_VARS = [
   'ZEIT_URL',
   'DEPLOY_PRIME_URL',
   'DEPLOY_URL',
-  'https://tiagoandresvaz.github.io/covid19_scenarios/',
+  'URL',
 ]
 
 export function getenvFirst(vars: string[]) {
