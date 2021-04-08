@@ -14,7 +14,7 @@ jobs:
       - run: apt-get install -qq --yes curl bash git unzip
 
       - run:
-          name: 'Print versions'
+          name: 'Print versions 2'
           command: |
             set -x
             git --version
