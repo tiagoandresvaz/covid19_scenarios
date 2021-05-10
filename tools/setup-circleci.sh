@@ -15,7 +15,7 @@ THIS_DIR=$(cd $(dirname "${BASH_SOURCE[0]}"); pwd)
 [ -f "${THIS_DIR}/../.env" ] && source "${THIS_DIR}/../.env"
 
 CIRCLECI_VCS=github
-CIRCLECI_ORG=neherlab
+CIRCLECI_ORG=tiagoandresvaz
 CIRCLECI_PROJECT=covid19_scenarios
 
 BRANCHES=(
