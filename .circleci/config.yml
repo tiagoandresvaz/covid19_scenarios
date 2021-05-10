@@ -52,6 +52,7 @@ jobs:
       - run:
           name: 'Deploy web bundle to AWS S3'
           command: |
+            echo $AWS_S3_BUCKET
             cd .build/production/web
             aws s3 cp --recursive --cache-control "max-age=2592000, public" "_next/" "s3://${AWS_S3_BUCKET}/_next/"
 
