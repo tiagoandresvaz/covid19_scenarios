@@ -193,7 +193,7 @@
           "hospitalBeds": 6674,
           "icuBeds": 826,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 288950,
+          "initialNumberOfCases": 234410,
           "populationServed": 11329605,
           "seroprevalence": 29.01
         },
@@ -412,7 +412,7 @@
           "hospitalBeds": 1427,
           "icuBeds": 280,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 33935,
+          "initialNumberOfCases": 27725,
           "populationServed": 1465430,
           "seroprevalence": 38.72
         },
@@ -643,7 +643,7 @@
           "hospitalBeds": 398,
           "icuBeds": 63,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 14745,
+          "initialNumberOfCases": 14155,
           "populationServed": 1055782,
           "seroprevalence": 21.69
         },
@@ -862,7 +862,7 @@
           "hospitalBeds": 854,
           "icuBeds": 134,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 33280,
+          "initialNumberOfCases": 25925,
           "populationServed": 1269747,
           "seroprevalence": 21.31
         },
@@ -1081,7 +1081,7 @@
           "hospitalBeds": 473,
           "icuBeds": 83,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 24290,
+          "initialNumberOfCases": 23530,
           "populationServed": 1002510,
           "seroprevalence": 18.15
         },
@@ -1288,7 +1288,7 @@
           "hospitalBeds": 1004,
           "icuBeds": 63,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 25580,
+          "initialNumberOfCases": 19220,
           "populationServed": 918268,
           "seroprevalence": 19.49
         },
@@ -1495,7 +1495,7 @@
           "hospitalBeds": 910,
           "icuBeds": 144,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 32995,
+          "initialNumberOfCases": 23800,
           "populationServed": 1186443,
           "seroprevalence": 28.31
         },
@@ -1702,7 +1702,7 @@
           "hospitalBeds": 1997,
           "icuBeds": 507,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 125540,
+          "initialNumberOfCases": 102450,
           "populationServed": 4983623,
           "seroprevalence": 41.36
         },
@@ -1909,7 +1909,7 @@
           "hospitalBeds": 548,
           "icuBeds": 75,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 32520,
+          "initialNumberOfCases": 25330,
           "populationServed": 913232,
           "seroprevalence": 14.99
         },
@@ -2116,7 +2116,7 @@
           "hospitalBeds": 148,
           "icuBeds": 22,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 3130,
+          "initialNumberOfCases": 2920,
           "populationServed": 184741,
           "seroprevalence": 14.76
         },
@@ -2335,7 +2335,7 @@
           "hospitalBeds": 151,
           "icuBeds": 14,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 5915,
+          "initialNumberOfCases": 4885,
           "populationServed": 199957,
           "seroprevalence": 10.04
         },
@@ -2542,7 +2542,7 @@
           "hospitalBeds": 292,
           "icuBeds": 40,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 23065,
+          "initialNumberOfCases": 19515,
           "populationServed": 792767,
           "seroprevalence": 48.66
         },
@@ -2761,7 +2761,7 @@
           "hospitalBeds": 138,
           "icuBeds": 18,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 13375,
+          "initialNumberOfCases": 10455,
           "populationServed": 397769,
           "seroprevalence": 35.3
         },
@@ -3004,7 +3004,7 @@
           "hospitalBeds": 841,
           "icuBeds": 79,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 32995,
+          "initialNumberOfCases": 23800,
           "populationServed": 1186443,
           "seroprevalence": 28.31
         },
@@ -3211,7 +3211,7 @@
           "hospitalBeds": 247,
           "icuBeds": 15,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 5750,
+          "initialNumberOfCases": 3705,
           "populationServed": 152581,
           "seroprevalence": 24.09
         },
@@ -3418,7 +3418,7 @@
           "hospitalBeds": 152,
           "icuBeds": 23,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 4470,
+          "initialNumberOfCases": 3910,
           "populationServed": 240074,
           "seroprevalence": 14.27
         },
@@ -3613,7 +3613,7 @@
           "hospitalBeds": 312,
           "icuBeds": 9,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 7105,
+          "initialNumberOfCases": 5760,
           "populationServed": 240503,
           "seroprevalence": 17.2
         },
@@ -3808,7 +3808,7 @@
           "hospitalBeds": 230,
           "icuBeds": 30,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 12370,
+          "initialNumberOfCases": 8725,
           "populationServed": 366332,
           "seroprevalence": 19.5
         },
@@ -4003,7 +4003,7 @@
           "hospitalBeds": 370,
           "icuBeds": 17,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 23515,
+          "initialNumberOfCases": 17610,
           "populationServed": 819402,
           "seroprevalence": 48.87
         },
@@ -4210,7 +4210,7 @@
           "hospitalBeds": 252,
           "icuBeds": 17,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 9600,
+          "initialNumberOfCases": 6430,
           "populationServed": 361215,
           "seroprevalence": 17.04
         },
@@ -4429,7 +4429,7 @@
           "hospitalBeds": 457,
           "icuBeds": 49,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 19210,
+          "initialNumberOfCases": 15585,
           "populationServed": 668458,
           "seroprevalence": 26.93
         },
@@ -4636,7 +4636,7 @@
           "hospitalBeds": 314,
           "icuBeds": 31,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 11615,
+          "initialNumberOfCases": 11235,
           "populationServed": 871041,
           "seroprevalence": 23.08
         },
@@ -4867,7 +4867,7 @@
           "hospitalBeds": 199,
           "icuBeds": 28,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 14235,
+          "initialNumberOfCases": 11720,
           "populationServed": 346943,
           "seroprevalence": 13.25
         },
@@ -5086,7 +5086,7 @@
           "hospitalBeds": 299,
           "icuBeds": 58,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 13815,
+          "initialNumberOfCases": 12930,
           "populationServed": 551963,
           "seroprevalence": 16.52
         },
@@ -5305,7 +5305,7 @@
           "hospitalBeds": 178,
           "icuBeds": 10,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 6145,
+          "initialNumberOfCases": 4615,
           "populationServed": 236497,
           "seroprevalence": 16.38
         },
@@ -5512,7 +5512,7 @@
           "hospitalBeds": 211,
           "icuBeds": 18,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 6580,
+          "initialNumberOfCases": 5140,
           "populationServed": 288687,
           "seroprevalence": 21.72
         },
@@ -5719,7 +5719,7 @@
           "hospitalBeds": 170,
           "icuBeds": 3,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 6650,
+          "initialNumberOfCases": 5755,
           "populationServed": 228092,
           "seroprevalence": 37.73
         },
@@ -5926,7 +5926,7 @@
           "hospitalBeds": 131,
           "icuBeds": 28,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 450547,
           "seroprevalence": 20.41
         },
@@ -5977,7 +5977,7 @@
           "hospitalBeds": 17470,
           "icuBeds": 524,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 37172386,
           "seroprevalence": 0.0
         },
@@ -6028,7 +6028,7 @@
           "hospitalBeds": 7621,
           "icuBeds": 228,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2866376,
           "seroprevalence": 0.0
         },
@@ -6079,7 +6079,7 @@
           "hospitalBeds": 79149,
           "icuBeds": 2374,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 42228429,
           "seroprevalence": 0.0
         },
@@ -6130,7 +6130,7 @@
           "hospitalBeds": 223470,
           "icuBeds": 6704,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 44494502,
           "seroprevalence": 0.0
         },
@@ -6181,7 +6181,7 @@
           "hospitalBeds": 10253,
           "icuBeds": 307,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2951776,
           "seroprevalence": 0.0
         },
@@ -6232,7 +6232,7 @@
           "hospitalBeds": 95970,
           "icuBeds": 2378,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 24992369,
           "seroprevalence": 0.0
         },
@@ -6283,7 +6283,7 @@
           "hospitalBeds": 47920,
           "icuBeds": 1833,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 8847037,
           "seroprevalence": 0.0
         },
@@ -6334,7 +6334,7 @@
           "hospitalBeds": 34107,
           "icuBeds": 1023,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 9942334,
           "seroprevalence": 0.0
         },
@@ -6385,7 +6385,7 @@
           "hospitalBeds": 32611,
           "icuBeds": 1174,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 161356039,
           "seroprevalence": 0.0
         },
@@ -6436,7 +6436,7 @@
           "hospitalBeds": 82314,
           "icuBeds": 2469,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 9485386,
           "seroprevalence": 0.0
         },
@@ -6487,7 +6487,7 @@
           "hospitalBeds": 56927,
           "icuBeds": 1755,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 11422068,
           "seroprevalence": 0.0
         },
@@ -6538,7 +6538,7 @@
           "hospitalBeds": 5670,
           "icuBeds": 170,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 11485048,
           "seroprevalence": 0.0
         },
@@ -6589,7 +6589,7 @@
           "hospitalBeds": 12436,
           "icuBeds": 373,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 11353142,
           "seroprevalence": 0.0
         },
@@ -6640,7 +6640,7 @@
           "hospitalBeds": 13474,
           "icuBeds": 404,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 3323929,
           "seroprevalence": 0.0
         },
@@ -6691,7 +6691,7 @@
           "hospitalBeds": 481779,
           "icuBeds": 42000,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 209469333,
           "seroprevalence": 0.0
         },
@@ -6742,7 +6742,7 @@
           "hospitalBeds": 1193,
           "icuBeds": 35,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 543767,
           "seroprevalence": 0.0
         },
@@ -6793,7 +6793,7 @@
           "hospitalBeds": 1896,
           "icuBeds": 128,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 977457,
           "seroprevalence": 0.0
         },
@@ -6844,7 +6844,7 @@
           "hospitalBeds": 72264,
           "icuBeds": 4800,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 37058856,
           "seroprevalence": 0.0
         },
@@ -6895,7 +6895,7 @@
           "hospitalBeds": 1142,
           "icuBeds": 51,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 319000,
           "seroprevalence": 0.0
         },
@@ -6946,7 +6946,7 @@
           "hospitalBeds": 633,
           "icuBeds": 28,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 177000,
           "seroprevalence": 0.0
         },
@@ -6997,7 +6997,7 @@
           "hospitalBeds": 1264,
           "icuBeds": 57,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 353000,
           "seroprevalence": 0.0
         },
@@ -7048,7 +7048,7 @@
           "hospitalBeds": 1231,
           "icuBeds": 56,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 344000,
           "seroprevalence": 0.0
         },
@@ -7099,7 +7099,7 @@
           "hospitalBeds": 37271,
           "icuBeds": 1118,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 18729160,
           "seroprevalence": 0.0
         },
@@ -7150,7 +7150,7 @@
           "hospitalBeds": 5494778,
           "icuBeds": 49453,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1392730000,
           "seroprevalence": 0.0
         },
@@ -7201,7 +7201,7 @@
           "hospitalBeds": 84899,
           "icuBeds": 2546,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 49648685,
           "seroprevalence": 0.0
         },
@@ -7252,7 +7252,7 @@
           "hospitalBeds": 5649,
           "icuBeds": 169,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4999441,
           "seroprevalence": 0.0
         },
@@ -7303,7 +7303,7 @@
           "hospitalBeds": 14475,
           "icuBeds": 650,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4089400,
           "seroprevalence": 0.0
         },
@@ -7354,7 +7354,7 @@
           "hospitalBeds": 57805,
           "icuBeds": 1734,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 11338138,
           "seroprevalence": 0.0
         },
@@ -7405,7 +7405,7 @@
           "hospitalBeds": 2922,
           "icuBeds": 92,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1189265,
           "seroprevalence": 0.0
         },
@@ -7456,7 +7456,7 @@
           "hospitalBeds": 43531,
           "icuBeds": 1227,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10625695,
           "seroprevalence": 0.0
         },
@@ -7507,7 +7507,7 @@
           "hospitalBeds": 14621,
           "icuBeds": 372,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5797446,
           "seroprevalence": 0.0
         },
@@ -7558,7 +7558,7 @@
           "hospitalBeds": 11001,
           "icuBeds": 524,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1841000,
           "seroprevalence": 0.0
         },
@@ -7609,7 +7609,7 @@
           "hospitalBeds": 37444,
           "icuBeds": 1786,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 6266000,
           "seroprevalence": 0.0
         },
@@ -7660,7 +7660,7 @@
           "hospitalBeds": 24411,
           "icuBeds": 1164,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4085000,
           "seroprevalence": 0.0
         },
@@ -7711,7 +7711,7 @@
           "hospitalBeds": 1237,
           "icuBeds": 37,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 958920,
           "seroprevalence": 0.0
         },
@@ -7762,7 +7762,7 @@
           "hospitalBeds": 159061,
           "icuBeds": 4771,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 98423595,
           "seroprevalence": 0.0
         },
@@ -7813,7 +7813,7 @@
           "hospitalBeds": 2400,
           "icuBeds": 97,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1022800,
           "seroprevalence": 0.0
         },
@@ -7864,7 +7864,7 @@
           "hospitalBeds": 2697,
           "icuBeds": 109,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1149460,
           "seroprevalence": 0.0
         },
@@ -7915,7 +7915,7 @@
           "hospitalBeds": 2505,
           "icuBeds": 101,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1067710,
           "seroprevalence": 0.0
         },
@@ -7966,7 +7966,7 @@
           "hospitalBeds": 1535,
           "icuBeds": 62,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 654214,
           "seroprevalence": 0.0
         },
@@ -8017,7 +8017,7 @@
           "hospitalBeds": 5180,
           "icuBeds": 210,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2207776,
           "seroprevalence": 0.0
         },
@@ -8068,7 +8068,7 @@
           "hospitalBeds": 15397,
           "icuBeds": 329,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5518050,
           "seroprevalence": 0.0
         },
@@ -8119,7 +8119,7 @@
           "hospitalBeds": 206619,
           "icuBeds": 7540,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 66987244,
           "seroprevalence": 0.0
         },
@@ -8170,7 +8170,7 @@
           "hospitalBeds": 497182,
           "icuBeds": 23890,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 82927922,
           "seroprevalence": 0.0
         },
@@ -8221,7 +8221,7 @@
           "hospitalBeds": 25292,
           "icuBeds": 758,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 29767108,
           "seroprevalence": 0.0
         },
@@ -8272,7 +8272,7 @@
           "hospitalBeds": 38747,
           "icuBeds": 680,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10727668,
           "seroprevalence": 0.0
         },
@@ -8323,7 +8323,7 @@
           "hospitalBeds": 9948,
           "icuBeds": 298,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 17247807,
           "seroprevalence": 0.0
         },
@@ -8374,7 +8374,7 @@
           "hospitalBeds": 3556,
           "icuBeds": 106,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 12414318,
           "seroprevalence": 0.0
         },
@@ -8425,7 +8425,7 @@
           "hospitalBeds": 1833,
           "icuBeds": 54,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1874309,
           "seroprevalence": 0.0
         },
@@ -8476,7 +8476,7 @@
           "hospitalBeds": 6427,
           "icuBeds": 192,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 9587522,
           "seroprevalence": 0.0
         },
@@ -8527,7 +8527,7 @@
           "hospitalBeds": 41803,
           "icuBeds": 1374,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 9768785,
           "seroprevalence": 0.0
         },
@@ -8578,7 +8578,7 @@
           "hospitalBeds": 862,
           "icuBeds": 29,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 353574,
           "seroprevalence": 0.0
         },
@@ -8629,7 +8629,7 @@
           "hospitalBeds": 32280,
           "icuBeds": 3179,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 63907200,
           "seroprevalence": 0.0
         },
@@ -8680,7 +8680,7 @@
           "hospitalBeds": 51446,
           "icuBeds": 5066,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 120837347,
           "seroprevalence": 0.0
         },
@@ -8731,7 +8731,7 @@
           "hospitalBeds": 810730,
           "icuBeds": 29997,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1352617328,
           "seroprevalence": 0.0
         },
@@ -8782,7 +8782,7 @@
           "hospitalBeds": 308435,
           "icuBeds": 7094,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 267663435,
           "seroprevalence": 0.0
         },
@@ -8833,7 +8833,7 @@
           "hospitalBeds": 130690,
           "icuBeds": 3790,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 81800269,
           "seroprevalence": 0.0
         },
@@ -8884,7 +8884,7 @@
           "hospitalBeds": 56271,
           "icuBeds": 1688,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 38433600,
           "seroprevalence": 0.0
         },
@@ -8935,7 +8935,7 @@
           "hospitalBeds": 13297,
           "icuBeds": 289,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4853506,
           "seroprevalence": 0.0
         },
@@ -8986,7 +8986,7 @@
           "hospitalBeds": 19133,
           "icuBeds": 758,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 8883800,
           "seroprevalence": 0.0
         },
@@ -9037,7 +9037,7 @@
           "hospitalBeds": 3872,
           "icuBeds": 70,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1311580,
           "seroprevalence": 0.0
         },
@@ -9088,7 +9088,7 @@
           "hospitalBeds": 16304,
           "icuBeds": 650,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4459477,
           "seroprevalence": 0.0
         },
@@ -9139,7 +9139,7 @@
           "hospitalBeds": 3899,
           "icuBeds": 825,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1215220,
           "seroprevalence": 0.0
         },
@@ -9190,7 +9190,7 @@
           "hospitalBeds": 34473,
           "icuBeds": 1067,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10060574,
           "seroprevalence": 0.0
         },
@@ -9241,7 +9241,7 @@
           "hospitalBeds": 4698,
           "icuBeds": 400,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1525271,
           "seroprevalence": 0.0
         },
@@ -9292,7 +9292,7 @@
           "hospitalBeds": 2132,
           "icuBeds": 69,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 541098,
           "seroprevalence": 0.0
         },
@@ -9343,7 +9343,7 @@
           "hospitalBeds": 11306,
           "icuBeds": 300,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4029053,
           "seroprevalence": 0.0
         },
@@ -9394,7 +9394,7 @@
           "hospitalBeds": 10366,
           "icuBeds": 447,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 3729641,
           "seroprevalence": 0.0
         },
@@ -9445,7 +9445,7 @@
           "hospitalBeds": 3763,
           "icuBeds": 75,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1072276,
           "seroprevalence": 0.0
         },
@@ -9496,7 +9496,7 @@
           "hospitalBeds": 449,
           "icuBeds": 0,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 125666,
           "seroprevalence": 0.0
         },
@@ -9547,7 +9547,7 @@
           "hospitalBeds": 15857,
           "icuBeds": 825,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4905854,
           "seroprevalence": 0.0
         },
@@ -9598,7 +9598,7 @@
           "hospitalBeds": 158891,
           "icuBeds": 7550,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 60431283,
           "seroprevalence": 0.0
         },
@@ -9649,7 +9649,7 @@
           "hospitalBeds": 710846,
           "icuBeds": 9241,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 126529100,
           "seroprevalence": 0.0
         },
@@ -9700,7 +9700,7 @@
           "hospitalBeds": 101231,
           "icuBeds": 3948,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 18276499,
           "seroprevalence": 0.0
         },
@@ -9751,7 +9751,7 @@
           "hospitalBeds": 270100,
           "icuBeds": 5402,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 51635256,
           "seroprevalence": 0.0
         },
@@ -9802,7 +9802,7 @@
           "hospitalBeds": 5832,
           "icuBeds": 174,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4137309,
           "seroprevalence": 0.0
         },
@@ -9853,7 +9853,7 @@
           "hospitalBeds": 6407,
           "icuBeds": 217,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1926542,
           "seroprevalence": 0.0
         },
@@ -9904,7 +9904,7 @@
           "hospitalBeds": 2251,
           "icuBeds": 127,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 607728,
           "seroprevalence": 0.0
         },
@@ -9955,7 +9955,7 @@
           "hospitalBeds": 62353,
           "icuBeds": 1060,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 31528585,
           "seroprevalence": 0.0
         },
@@ -10006,7 +10006,7 @@
           "hospitalBeds": 1687,
           "icuBeds": 50,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 515696,
           "seroprevalence": 0.0
         },
@@ -10057,7 +10057,7 @@
           "hospitalBeds": 1842,
           "icuBeds": 55,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 19077690,
           "seroprevalence": 0.0
         },
@@ -10108,7 +10108,7 @@
           "hospitalBeds": 174143,
           "icuBeds": 5224,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 126190788,
           "seroprevalence": 0.0
         },
@@ -10159,7 +10159,7 @@
           "hospitalBeds": 16168,
           "icuBeds": 485,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 3545883,
           "seroprevalence": 0.0
         },
@@ -10210,7 +10210,7 @@
           "hospitalBeds": 37745,
           "icuBeds": 1132,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 36029138,
           "seroprevalence": 0.0
         },
@@ -10261,7 +10261,7 @@
           "hospitalBeds": 58600,
           "icuBeds": 586,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 53708395,
           "seroprevalence": 0.0
         },
@@ -10312,7 +10312,7 @@
           "hospitalBeds": 89152,
           "icuBeds": 815,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 28087871,
           "seroprevalence": 0.0
         },
@@ -10363,7 +10363,7 @@
           "hospitalBeds": 50047,
           "icuBeds": 1065,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 17231017,
           "seroprevalence": 0.0
         },
@@ -10414,7 +10414,7 @@
           "hospitalBeds": 12653,
           "icuBeds": 153,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4885500,
           "seroprevalence": 0.0
         },
@@ -10465,7 +10465,7 @@
           "hospitalBeds": 5937,
           "icuBeds": 178,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2082958,
           "seroprevalence": 0.0
         },
@@ -10516,7 +10516,7 @@
           "hospitalBeds": 16885,
           "icuBeds": 395,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5314336,
           "seroprevalence": 0.0
         },
@@ -10567,7 +10567,7 @@
           "hospitalBeds": 5736,
           "icuBeds": 499,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4829483,
           "seroprevalence": 0.0
         },
@@ -10618,7 +10618,7 @@
           "hospitalBeds": 125680,
           "icuBeds": 3142,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 212215030,
           "seroprevalence": 0.0
         },
@@ -10669,7 +10669,7 @@
           "hospitalBeds": 8741,
           "icuBeds": 262,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 4176873,
           "seroprevalence": 0.0
         },
@@ -10720,7 +10720,7 @@
           "hospitalBeds": 50129,
           "icuBeds": 1503,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 31989256,
           "seroprevalence": 0.0
         },
@@ -10771,7 +10771,7 @@
           "hospitalBeds": 63108,
           "icuBeds": 2335,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 106651922,
           "seroprevalence": 0.0
         },
@@ -10822,7 +10822,7 @@
           "hospitalBeds": 184230,
           "icuBeds": 2635,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 37978548,
           "seroprevalence": 0.0
         },
@@ -10873,7 +10873,7 @@
           "hospitalBeds": 33447,
           "icuBeds": 451,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10281762,
           "seroprevalence": 0.0
         },
@@ -10924,7 +10924,7 @@
           "hospitalBeds": 102899,
           "icuBeds": 4574,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 19473936,
           "seroprevalence": 0.0
         },
@@ -10975,7 +10975,7 @@
           "hospitalBeds": 915124,
           "icuBeds": 27453,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 144478050,
           "seroprevalence": 0.0
         },
@@ -11026,7 +11026,7 @@
           "hospitalBeds": 70815,
           "icuBeds": 6515,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 33699947,
           "seroprevalence": 0.0
         },
@@ -11077,7 +11077,7 @@
           "hospitalBeds": 4506,
           "icuBeds": 135,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 15854360,
           "seroprevalence": 0.0
         },
@@ -11128,7 +11128,7 @@
           "hospitalBeds": 32585,
           "icuBeds": 977,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 6982084,
           "seroprevalence": 0.0
         },
@@ -11179,7 +11179,7 @@
           "hospitalBeds": 134048,
           "icuBeds": 4021,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 57779622,
           "seroprevalence": 0.0
         },
@@ -11230,7 +11230,7 @@
           "hospitalBeds": 113042,
           "icuBeds": 4479,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 46723749,
           "seroprevalence": 0.0
         },
@@ -11281,7 +11281,7 @@
           "hospitalBeds": 34496,
           "icuBeds": 1034,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 41801533,
           "seroprevalence": 0.0
         },
@@ -11332,7 +11332,7 @@
           "hospitalBeds": 20477,
           "icuBeds": 550,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10183175,
           "seroprevalence": 0.0
         },
@@ -11383,7 +11383,7 @@
           "hospitalBeds": 30057,
           "icuBeds": 1400,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 8516543,
           "seroprevalence": 0.0
         },
@@ -11434,7 +11434,7 @@
           "hospitalBeds": 38815,
           "icuBeds": 1164,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 56318348,
           "seroprevalence": 0.0
         },
@@ -11485,7 +11485,7 @@
           "hospitalBeds": 139216,
           "icuBeds": 7100,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 69428524,
           "seroprevalence": 0.0
         },
@@ -11536,7 +11536,7 @@
           "hospitalBeds": 25335,
           "icuBeds": 760,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 11565204,
           "seroprevalence": 0.0
         },
@@ -11587,7 +11587,7 @@
           "hospitalBeds": 223386,
           "icuBeds": 6701,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 82319724,
           "seroprevalence": 0.0
         },
@@ -11638,7 +11638,7 @@
           "hospitalBeds": 276004,
           "icuBeds": 2646,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 44622516,
           "seroprevalence": 0.0
         },
@@ -11689,7 +11689,7 @@
           "hospitalBeds": 11641,
           "icuBeds": 349,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 9630959,
           "seroprevalence": 0.0
         },
@@ -11740,7 +11740,7 @@
           "hospitalBeds": 139647,
           "icuBeds": 4114,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 66488991,
           "seroprevalence": 0.0
         },
@@ -11791,7 +11791,7 @@
           "hospitalBeds": 798288,
           "icuBeds": 49499,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 327167434,
           "seroprevalence": 0.0
         },
@@ -11842,7 +11842,7 @@
           "hospitalBeds": 14019,
           "icuBeds": 467,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 7378494,
           "seroprevalence": 0.0
         },
@@ -11893,7 +11893,7 @@
           "hospitalBeds": 7126,
           "icuBeds": 238,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 3563070,
           "seroprevalence": 0.0
         },
@@ -11944,7 +11944,7 @@
           "hospitalBeds": 31649,
           "icuBeds": 1055,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 12659682,
           "seroprevalence": 0.0
         },
@@ -11995,7 +11995,7 @@
           "hospitalBeds": 9604,
           "icuBeds": 320,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2910357,
           "seroprevalence": 0.0
         },
@@ -12046,7 +12046,7 @@
           "hospitalBeds": 25113,
           "icuBeds": 837,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 10045029,
           "seroprevalence": 0.0
         },
@@ -12097,7 +12097,7 @@
           "hospitalBeds": 14252,
           "icuBeds": 475,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5700671,
           "seroprevalence": 0.0
         },
@@ -12148,7 +12148,7 @@
           "hospitalBeds": 11957,
           "icuBeds": 399,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2989260,
           "seroprevalence": 0.0
         },
@@ -12199,7 +12199,7 @@
           "hospitalBeds": 19125,
           "icuBeds": 638,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 6169270,
           "seroprevalence": 0.0
         },
@@ -12250,7 +12250,7 @@
           "hospitalBeds": 2880,
           "icuBeds": 96,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 1371246,
           "seroprevalence": 0.0
         },
@@ -12301,7 +12301,7 @@
           "hospitalBeds": 3774,
           "icuBeds": 126,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 2096640,
           "seroprevalence": 0.0
         },
@@ -12352,7 +12352,7 @@
           "hospitalBeds": 12504,
           "icuBeds": 417,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5210095,
           "seroprevalence": 0.0
         },
@@ -12403,7 +12403,7 @@
           "hospitalBeds": 1319,
           "icuBeds": 44,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 628061,
           "seroprevalence": 0.0
         },
@@ -12454,7 +12454,7 @@
           "hospitalBeds": 13255,
           "icuBeds": 442,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 7797095,
           "seroprevalence": 0.0
         },
@@ -12505,7 +12505,7 @@
           "hospitalBeds": 12289,
           "icuBeds": 410,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 5851754,
           "seroprevalence": 0.0
         },
@@ -12556,7 +12556,7 @@
           "hospitalBeds": 98390,
           "icuBeds": 2951,
           "importsPerDay": 0.1,
-          "initialNumberOfCases": 10475,
+          "initialNumberOfCases": 10600,
           "populationServed": 32955400,
           "seroprevalence": 0.0
         },
