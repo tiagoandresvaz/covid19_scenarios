@@ -11,9 +11,9 @@ git add case-counts/*tsv
 git commit -m "update case count tsv files"
 echo "updated and committed tsv files"
 
-python generate_data.py --output-cases ../src/assets/data/caseCounts.json
+python generate_data.py --fetch --output-cases ../src/assets/data/caseCounts.json --output-scenarios ../src/assets/data/scenarios.json
 cd ..
-git add src/assets/data/caseCounts.json
+git add ..
 git commit -m "update case count json"
 echo "updated and committed json file"
 
