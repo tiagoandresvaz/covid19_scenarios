@@ -610,30 +610,6 @@
                 "begin": 71.5,
                 "end": 82.5
               }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 12",
-              "timeRange": {
-                "begin": "2021-02-04",
-                "end": "2021-03-17"
-              },
-              "transmissionReduction": {
-                "begin": 60.1,
-                "end": 71.9
-              }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 13",
-              "timeRange": {
-                "begin": "2021-03-17",
-                "end": "2021-05-16"
-              },
-              "transmissionReduction": {
-                "begin": 53.3,
-                "end": 64.7
-              }
             }
           ]
         },
@@ -2959,42 +2935,6 @@
                 "begin": 70.5,
                 "end": 81.5
               }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 12",
-              "timeRange": {
-                "begin": "2021-01-22",
-                "end": "2021-02-12"
-              },
-              "transmissionReduction": {
-                "begin": 28.3,
-                "end": 33.7
-              }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 13",
-              "timeRange": {
-                "begin": "2021-02-12",
-                "end": "2021-03-08"
-              },
-              "transmissionReduction": {
-                "begin": 60.1,
-                "end": 71.9
-              }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 14",
-              "timeRange": {
-                "begin": "2021-03-08",
-                "end": "2021-05-16"
-              },
-              "transmissionReduction": {
-                "begin": 49.6,
-                "end": 60.4
-              }
             }
           ]
         },
@@ -4833,30 +4773,6 @@
               "transmissionReduction": {
                 "begin": 71.5,
                 "end": 82.5
-              }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 13",
-              "timeRange": {
-                "begin": "2021-02-01",
-                "end": "2021-03-01"
-              },
-              "transmissionReduction": {
-                "begin": 39.7,
-                "end": 48.3
-              }
-            },
-            {
-              "color": "#cccccc",
-              "name": "Intervention 14",
-              "timeRange": {
-                "begin": "2021-03-01",
-                "end": "2021-05-16"
-              },
-              "transmissionReduction": {
-                "begin": 24.0,
-                "end": 28.0
               }
             }
           ]
